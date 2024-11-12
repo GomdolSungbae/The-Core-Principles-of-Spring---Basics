@@ -51,3 +51,73 @@ Inflearn-spring-core</a></td>
     <td align="center"><a href="https://github.com/LDK1009" target="_blank">LDK1009</a></td>
   </tr>
 </table>
+
+
+<table>
+  <tr>
+    <th align="center">Name</th>
+    <th align="center">Photo</th>
+    <th align="center">실습 Repository</th>
+    <th align="center">Section 2</th>
+    <th align="center">Section 3</th>
+    <th align="center">Section 4</th>
+    <th align="center">Section 5</th>
+    <th align="center">Section 6</th>
+    <th align="center">Section 7</th>
+  </tr>
+  <tr>
+    <td align="center">임채민</td>
+    <td align="center"><a href="https://github.com/Antraxmin" target="_blank"><img src="https://github.com/Antraxmin.png" width="70"/></a></td>
+    <td align="center"><a href="https://github.com/Antraxmin" target="_blank">Antraxmin</a></td>
+    <td align="center">미진행</td>
+    <td align="center">미진행</td>
+    <td align="center">미진행</td>
+    <td align="center">미진행</td>
+    <td align="center">미진행</td>
+    <td align="center">미진행</td>
+  </tr>
+  <tr>
+    <td align="center">황다경</td>
+    <td align="center"><a href="https://github.com/Monixc" target="_blank"><img src="https://github.com/Monixc.png" width="70"/></a></td>
+    <td align="center"><a href="https://github.com/Monixc" target="_blank">Monixc</a></td>
+    <td align="center">미진행</td>
+    <td align="center">미진행</td>
+    <td align="center">미진행</td>
+    <td align="center">미진행</td>
+    <td align="center">미진행</td>
+    <td align="center">미진행</td>
+  </tr>
+  <tr>
+    <td align="center">김민아</td>
+    <td align="center"><a href="https://github.com/Ogu1208" target="_blank"><img src="https://github.com/Ogu1208.png" width="70"/></a></td>
+    <td align="center"><a href="https://github.com/Ogu1208/Inflearn-spring-core" target="_blank">Ogu1208 / Inflearn-spring-core</a></td>
+    <td align="center">미진행</td>
+    <td align="center">미진행</td>
+    <td align="center">미진행</td>
+    <td align="center">미진행</td>
+    <td align="center">미진행</td>
+    <td align="center">미진행</td>
+  </tr>
+  <tr>
+    <td align="center">심주흔</td>
+    <td align="center"><a href="https://github.com/tejava7177" target="_blank"><img src="https://github.com/tejava7177.png" width="70"/></a></td>
+    <td align="center"><a href="https://github.com/tejava7177" target="_blank">tejava7177</a></td>
+    <td align="center">미진행</td>
+    <td align="center">미진행</td>
+    <td align="center">미진행</td>
+    <td align="center">미진행</td>
+    <td align="center">미진행</td>
+    <td align="center">미진행</td>
+  </tr>
+  <tr>
+    <td align="center">이동규</td>
+    <td align="center"><a href="https://github.com/LDK1009" target="_blank"><img src="https://github.com/LDK1009.png" width="70"/></a></td>
+    <td align="center"><a href="https://github.com/LDK1009" target="_blank">LDK1009</a></td>
+    <td align="center">미진행</td>
+    <td align="center">미진행</td>
+    <td align="center">미진행</td>
+    <td align="center">미진행</td>
+    <td align="center">미진행</td>
+    <td align="center">미진행</td>
+  </tr>
+</table>
