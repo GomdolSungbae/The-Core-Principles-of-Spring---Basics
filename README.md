@@ -6,6 +6,8 @@
 
 💡 실습은 본인의 레포지토리에서 진행하고, 해당레포에서는 학습 내용을 정리하고 공유합니다.
 
+## 🗂️ 강의 목차
+
 | 섹션              | 챕터 이름          |Description      | 학습 내용 정리|
 |----------------|----------------|------------|----|
 | 2  | 객체 지향 설계와 스프링 | 예제를 만들어가면서 스프링 웹 애플리케이션 개발 전반 학습   | [Section2 Bookmark](https://github.com/GomdolSungbae/The-Core-Principles-of-Spring---Basics/tree/main/Section2)|
@@ -17,42 +19,7 @@
 
 
 
-<table>
-  <tr>
-    <th align="center">Name</th>
-    <th align="center">Photo</th>
-    <th align="center">실습 Repository</th>
-  </tr>
-  <tr>
-    <td align="center">임채민</td>
-    <td align="center"><a href="https://github.com/Antraxmin" target="_blank"><img src="https://github.com/Antraxmin.png" width="50"/></a></td>
-    <td align="center"><a href="https://github.com/Antraxmin" target="_blank">Antraxmin</a></td>
-  </tr>
-  <tr>
-    <td align="center">황다경</td>
-    <td align="center"><a href="https://github.com/Monixc" target="_blank"><img src="https://github.com/Monixc.png" width="50"/></a></td>
-    <td align="center"><a href="https://github.com/Monixc" target="_blank">Monixc</a></td>
-  </tr>
-  <tr>
-    <td align="center">김민아</td>
-    <td align="center"><a href="https://github.com/Ogu1208" target="_blank"><img src="https://github.com/Ogu1208.png" width="50"/></a></td>
-    <td align="center"><a href="https://github.com/Ogu1208/Inflearn-spring-core" target="_blank">Ogu1208
-/
-Inflearn-spring-core</a></td>
-  </tr>
-  <tr>
-    <td align="center">심주흔</td>
-    <td align="center"><a href="https://github.com/tejava7177" target="_blank"><img src="https://github.com/tejava7177.png" width="50"/></a></td>
-    <td align="center"><a href="https://github.com/tejava7177" target="_blank">tejava7177</a></td>
-  </tr>
-  <tr>
-    <td align="center">이동규</td>
-    <td align="center"><a href="https://github.com/LDK1009" target="_blank"><img src="https://github.com/LDK1009.png" width="50"/></a></td>
-    <td align="center"><a href="https://github.com/LDK1009" target="_blank">LDK1009</a></td>
-  </tr>
-</table>
-
-
+### ✅ 멤버 진도표
 <table>
   <tr>
     <th align="center">Name</th>
@@ -109,3 +76,40 @@ Inflearn-spring-core</a></td>
     <td align="center">미진행</td>
   </tr>
 </table>
+
+### 🖥️ 멤버 실습 레포
+<table>
+  <tr>
+    <th align="center">Name</th>
+    <th align="center">Photo</th>
+    <th align="center">실습 Repository</th>
+  </tr>
+  <tr>
+    <td align="center">임채민</td>
+    <td align="center"><a href="https://github.com/Antraxmin" target="_blank"><img src="https://github.com/Antraxmin.png" width="50"/></a></td>
+    <td align="center"><a href="https://github.com/Antraxmin" target="_blank">Antraxmin</a></td>
+  </tr>
+  <tr>
+    <td align="center">황다경</td>
+    <td align="center"><a href="https://github.com/Monixc" target="_blank"><img src="https://github.com/Monixc.png" width="50"/></a></td>
+    <td align="center"><a href="https://github.com/Monixc" target="_blank">Monixc</a></td>
+  </tr>
+  <tr>
+    <td align="center">김민아</td>
+    <td align="center"><a href="https://github.com/Ogu1208" target="_blank"><img src="https://github.com/Ogu1208.png" width="50"/></a></td>
+    <td align="center"><a href="https://github.com/Ogu1208/Inflearn-spring-core" target="_blank">Ogu1208
+/
+Inflearn-spring-core</a></td>
+  </tr>
+  <tr>
+    <td align="center">심주흔</td>
+    <td align="center"><a href="https://github.com/tejava7177" target="_blank"><img src="https://github.com/tejava7177.png" width="50"/></a></td>
+    <td align="center"><a href="https://github.com/tejava7177" target="_blank">tejava7177</a></td>
+  </tr>
+  <tr>
+    <td align="center">이동규</td>
+    <td align="center"><a href="https://github.com/LDK1009" target="_blank"><img src="https://github.com/LDK1009.png" width="50"/></a></td>
+    <td align="center"><a href="https://github.com/LDK1009" target="_blank">LDK1009</a></td>
+  </tr>
+</table>
+
