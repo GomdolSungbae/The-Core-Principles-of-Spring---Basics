@@ -20,6 +20,8 @@
 
 
 ### ✅ 멤버 진도표
+- ✅ : 진행 완료
+- 😵‍💫 : 진행중
 <table>
   <tr>
     <th align="center">Name</th>
