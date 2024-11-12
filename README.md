@@ -2,13 +2,13 @@
 
 김영한님의 [스프링 핵심 원리 - 기본편] 강의를 학습하는 레포입니다.
 
-https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8/dashboard
+[Inflearn - 스프링 핵심 원리 - 기본편](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8/dashboard)
 
 💡 실습은 본인의 레포지토리에서 진행하고, 해당레포에서는 학습 내용을 정리하고 공유합니다.
 
 | 섹션              | 챕터 이름          |Description      | 학습 내용 정리|
 |----------------|----------------|------------|----|
-| 2  | 객체 지향 설계와 스프링 | 예제를 만들어가면서 스프링 웹 애플리케이션 개발 전반 학습   |
+| 2  | 객체 지향 설계와 스프링 | 예제를 만들어가면서 스프링 웹 애플리케이션 개발 전반 학습   | [Section2 Bookmark](https://github.com/GomdolSungbae/The-Core-Principles-of-Spring---Basics/tree/main/Section2)|
 | 3  | 스프링 핵심 원리 이해1 - 예제 만들기| 회원, 주문, 할인 도메인 개발   |
 | 4  | 스프링 핵심 원리 이해2 - 객체 지향 원리 적용| 새로운 할인 정책 개발 및 객체지향 원리 적용   |
 | 5  | 스프링 컨테이너와 스프링 빈| 싱글톤 패턴 학습 및 실습  |
