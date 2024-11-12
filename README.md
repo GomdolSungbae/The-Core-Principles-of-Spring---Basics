@@ -1,1 +1,51 @@
 # The-Core-Principles-of-Spring---Basics
+
+김영한님의 [스프링 핵심 원리 - 기본편] 강의를 학습하는 레포입니다.
+
+https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8/dashboard
+
+💡 실습은 본인의 레포지토리에서 진행하고, 해당레포에서는 학습 내용을 정리하고 공유합니다.
+
+| 섹션              | 챕터 이름          |Description      | 학습 내용 정리|
+|----------------|----------------|------------|----|
+| 2  | 객체 지향 설계와 스프링 | 예제를 만들어가면서 스프링 웹 애플리케이션 개발 전반 학습   |
+| 3  | 스프링 핵심 원리 이해1 - 예제 만들기| 회원, 주문, 할인 도메인 개발   |
+| 4  | 스프링 핵심 원리 이해2 - 객체 지향 원리 적용| 새로운 할인 정책 개발 및 객체지향 원리 적용   |
+| 5  | 스프링 컨테이너와 스프링 빈| 싱글톤 패턴 학습 및 실습  |
+| 6  | 싱글톤 컨테이너 | 회원, 주문, 할인 도메인 개발   |
+| 7  | 컴포넌트 스캔 | 회원, 주문, 할인 도메인 개발   |
+
+
+
+<table>
+  <tr>
+    <th align="center">Name</th>
+    <th align="center">Photo</th>
+    <th align="center">실습 Repository</th>
+  </tr>
+  <tr>
+    <td align="center">임채민</td>
+    <td align="center"><a href="https://github.com/Antraxmin" target="_blank"><img src="https://github.com/Antraxmin.png" width="50"/></a></td>
+    <td align="center"><a href="https://github.com/Antraxmin" target="_blank">Antraxmin</a></td>
+  </tr>
+  <tr>
+    <td align="center">황다경</td>
+    <td align="center"><a href="https://github.com/Monixc" target="_blank"><img src="https://github.com/Monixc.png" width="50"/></a></td>
+    <td align="center"><a href="https://github.com/Monixc" target="_blank">Monixc</a></td>
+  </tr>
+  <tr>
+    <td align="center">김민아</td>
+    <td align="center"><a href="https://github.com/Ogu1208" target="_blank"><img src="https://github.com/Ogu1208.png" width="50"/></a></td>
+    <td align="center"><a href="https://github.com/Ogu1208" target="_blank">Ogu1208</a></td>
+  </tr>
+  <tr>
+    <td align="center">심주흔</td>
+    <td align="center"><a href="https://github.com/tejava7177" target="_blank"><img src="https://github.com/tejava7177.png" width="50"/></a></td>
+    <td align="center"><a href="https://github.com/tejava7177" target="_blank">tejava7177</a></td>
+  </tr>
+  <tr>
+    <td align="center">이동규</td>
+    <td align="center"><a href="https://github.com/LDK1009" target="_blank"><img src="https://github.com/LDK1009.png" width="50"/></a></td>
+    <td align="center"><a href="https://github.com/LDK1009" target="_blank">LDK1009</a></td>
+  </tr>
+</table>
