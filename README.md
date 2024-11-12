@@ -36,7 +36,9 @@
   <tr>
     <td align="center">김민아</td>
     <td align="center"><a href="https://github.com/Ogu1208" target="_blank"><img src="https://github.com/Ogu1208.png" width="50"/></a></td>
-    <td align="center"><a href="https://github.com/Ogu1208" target="_blank">Ogu1208</a></td>
+    <td align="center"><a href="https://github.com/Ogu1208/Inflearn-spring-core" target="_blank">Ogu1208
+/
+Inflearn-spring-core</a></td>
   </tr>
   <tr>
     <td align="center">심주흔</td>
