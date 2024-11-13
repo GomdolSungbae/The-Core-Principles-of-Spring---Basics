@@ -41,7 +41,7 @@
   </tr>
   <tr>
     <td align="center">임채민</td>
-    <td align="center">미진행</td>
+    <td align="center">✅</td>
     <td align="center">미진행</td>
     <td align="center">미진행</td>
     <td align="center">미진행</td>
