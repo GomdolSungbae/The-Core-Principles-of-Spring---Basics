@@ -60,7 +60,7 @@
   <tr>
     <td align="center">김민아</td>
     <td align="center">✅</td>
-    <td align="center">미진행</td>
+    <td align="center">✅</td>
     <td align="center">미진행</td>
     <td align="center">미진행</td>
     <td align="center">미진행</td>
