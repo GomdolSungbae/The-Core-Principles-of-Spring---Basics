@@ -113,7 +113,7 @@ Inflearn-spring-core</a></td>
   <tr>
     <td align="center">심주흔</td>
     <td align="center"><a href="https://github.com/tejava7177" target="_blank"><img src="https://github.com/tejava7177.png" width="50"/></a></td>
-    <td align="center"><a href="https://github.com/tejava7177" target="_blank">tejava7177</a></td>
+    <td align="center"><a href="https://github.com/tejava7177/Spring_Core" target="_blank">tejava7177</a></td>
   </tr>
   <tr>
     <td align="center">이동규</td>
