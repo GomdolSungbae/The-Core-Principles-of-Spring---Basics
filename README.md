@@ -21,9 +21,12 @@
 | 2  | 객체 지향 설계와 스프링 | 예제를 만들어가면서 스프링 웹 애플리케이션 개발 전반 학습   | [Section2 Bookmark](https://github.com/GomdolSungbae/The-Core-Principles-of-Spring---Basics/tree/main/Section2)|
 | 3  | 스프링 핵심 원리 이해1 - 예제 만들기| 회원, 주문, 할인 도메인 개발   |
 | 4  | 스프링 핵심 원리 이해2 - 객체 지향 원리 적용| 새로운 할인 정책 개발 및 객체지향 원리 적용   |
-| 5  | 스프링 컨테이너와 스프링 빈| 싱글톤 패턴 학습 및 실습  |
-| 6  | 싱글톤 컨테이너 | 회원, 주문, 할인 도메인 개발   |
-| 7  | 컴포넌트 스캔 | 회원, 주문, 할인 도메인 개발   |
+| 5  | 스프링 컨테이너와 스프링 빈| 스프링 컨테이너, BeanFactory, ApplicationContext, 빈 조회 실습 |
+| 6  | 싱글톤 컨테이너 | 싱글톤 패턴 학습 및 실습  |
+| 7  | 컴포넌트 스캔 | 컴포넌트 스캔과 의존관계 자동 주입, 탐색 위치 및 기본 스캔 대상, 필터 |
+| 8  | 의존관계 자동 주입 | 다양한 의존 관계 주입 방법, 애너테이션 직접 생성 |
+| 9  | 빈 생명주기 콜백 | 빈 생명주기 콜백, 빈 등록 초기화, 소멸, @PostConstruct, @PreDestroy |
+| 10  | 빈 스코프 | 빈 스코프, 프로토타입 스코프 웹 스코프, 스코프와 Procvider, Proxy |
 
 
 ### ✅ 멤버 진도표
@@ -38,10 +41,16 @@
     <th align="center">Section 5</th>
     <th align="center">Section 6</th>
     <th align="center">Section 7</th>
+    <th align="center">Section 8</th>
+    <th align="center">Section 9</th>
+    <th align="center">Section 10</th>
   </tr>
   <tr>
     <td align="center">임채민</td>
     <td align="center">✅</td>
+    <td align="center">미진행</td>
+    <td align="center">미진행</td>
+    <td align="center">미진행</td>
     <td align="center">미진행</td>
     <td align="center">미진행</td>
     <td align="center">미진행</td>
@@ -56,11 +65,17 @@
     <td align="center">미진행</td>
     <td align="center">미진행</td>
     <td align="center">미진행</td>
+    <td align="center">미진행</td>
+    <td align="center">미진행</td>
+    <td align="center">미진행</td>
   </tr>
   <tr>
     <td align="center">김민아</td>
     <td align="center">✅</td>
     <td align="center">✅</td>
+    <td align="center">✅</td>
+    <td align="center">✅</td>
+    <td align="center">미진행</td>
     <td align="center">미진행</td>
     <td align="center">미진행</td>
     <td align="center">미진행</td>
@@ -74,9 +89,15 @@
     <td align="center">미진행</td>
     <td align="center">미진행</td>
     <td align="center">미진행</td>
+    <td align="center">미진행</td>
+    <td align="center">미진행</td>
+    <td align="center">미진행</td>
   </tr>
   <tr>
     <td align="center">이동규</td>
+    <td align="center">미진행</td>
+    <td align="center">미진행</td>
+    <td align="center">미진행</td>
     <td align="center">미진행</td>
     <td align="center">미진행</td>
     <td align="center">미진행</td>
