@@ -91,7 +91,7 @@
     <td align="center">✅</td>
     <td align="center">✅</td>
     <td align="center">✅</td>
-    <td align="center">😵‍💫</td>
+    <td align="center">✅</td>
   </tr>
   <tr>
     <td align="center">이동규</td>
